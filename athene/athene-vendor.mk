@@ -26,4 +26,4 @@ PRODUCT_PACKAGES += \
     ims \
     imscmlibrary
 
-$(call inherit-product, vendor/motorola/msm8952/athene/athene-vendor-blobs.mk)
+$(call inherit-product, vendor/motorola/athene/athene-vendor-blobs.mk)
